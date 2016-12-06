@@ -14,7 +14,7 @@ import java.util.ArrayList;
  */
 public class Salle {
 
-	/** Membres privés */
+	/** Membres priv�s */
 	private int _id; // identifiant de l'utilisateur
 	private String _roomName; // le nom de la salle
 	private int _capacity; // la capacité de la salle

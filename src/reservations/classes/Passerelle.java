@@ -37,7 +37,7 @@ public class Passerelle {
 	/** Membres privés */
 
 	// Adresse de l'hébergeur Internet
-	private static String _adresseHebergeur = "http://catwyth12.no-ip.org/m.m2l/services/";
+	private static String _adresseHebergeur = "http://url/du/site/m.m2l/services/";
 	// Adresse du localhost en cas d'exécution sur le poste de développement
 	// (projet de tests des classes)
 	// private static String _adresseHebergeur =
